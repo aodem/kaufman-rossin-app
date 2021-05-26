@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: ./helloworld.html
-    destination: /home/ubuntu
+    destination: /var/www/html/kr-static
